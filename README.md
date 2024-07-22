@@ -18,11 +18,11 @@ Python 3.x
 
 ## Libraries:
 
-requests
-beautifulsoup4
-pandas
-plotly
-yfinance
+-requests
+-beautifulsoup4
+-pandas
+-plotly
+-yfinance
 
 ## You can install the required libraries using the following command:
 pip install requests beautifulsoup4 pandas plotly yfinance
