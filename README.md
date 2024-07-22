@@ -1,9 +1,9 @@
-## Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-Project
+# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-Project
 
-# Overview
+## Overview
 This project focuses on analyzing and visualizing stock and revenue data for different companies. It includes tools for downloading, processing, and plotting historical stock prices and revenue data. The project demonstrates the use of data analysis and visualization libraries in Python, such as yfinance, pandas, and plotly.
 
-# Project Structure
+## Project Structure
 - Data Extraction and Processing:
 
 Tesla Stock Data: Download and process historical stock price data for Tesla.
@@ -13,10 +13,10 @@ Revenue Data: Extract and clean revenue data from HTML sources for both Tesla an
 
 Plotting Stock Data: Create visualizations for historical stock prices and revenue data using Plotly.
 
-# Requirements
+## Requirements
 Python 3.x
 
-# Libraries:
+## Libraries:
 
 requests
 beautifulsoup4
@@ -24,8 +24,8 @@ pandas
 plotly
 yfinance
 
-# You can install the required libraries using the following command:
+## You can install the required libraries using the following command:
 pip install requests beautifulsoup4 pandas plotly yfinance
 
-# Contributing
+## Contributing
 If you have suggestions or improvements, feel free to contribute to the project by submitting a pull request.
